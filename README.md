@@ -16,4 +16,4 @@ I am an Information Technology student and Business Administration graduate base
 - 🎨 [Technical Documentation Page](enlace a tu repositorio) - Structured UI layout.
 
 ### 📈 GitHub Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcamposa-devicons=true)](https://github.com/SrGobi/github-readme-stats)
+[![Jossie C.GitHub stats](https://github-readme-stats.vercel.app/api?username=jcamposa-dev icons=true)](https://github.com/SrGobi/github-readme-stats)
