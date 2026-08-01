@@ -8,7 +8,12 @@ I am an Information Technology student and Business Administration graduate base
 - 🛠️ Documenting my daily coding journey in this profile.
 
 ### 🛠️ Tech Stack & Tools:
-[Aquí colocas los logos/badges de HTML5, CSS3, GitHub, Git, etc.]
+  ![HTML5](https://shields.io)
+  ![CSS3](https://shields.io)
+  ![JavaScript](https://shields.io)
+  ![Git](https://shields.io)
+  ![GitHub](https://shields.io)
+  ![Markdown](https://shields.io)
 
 ### 📂 Featured freeCodeCamp Projects:
 - 📄 [Tribute Page](enlace a tu repositorio) - Built with responsive HTML/CSS.
