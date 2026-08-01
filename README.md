@@ -15,5 +15,12 @@ I am an Information Technology student and Business Administration graduate base
 - 📋 [Survey Form](enlace a tu repositorio) - Form validation and accessible design.
 - 🎨 [Technical Documentation Page](enlace a tu repositorio) - Structured UI layout.
 
+### 🌐 Connect With Me 
+- LinkedIn: https://linkedin.com/in/johndoe  
+
 ### 📈 GitHub Stats:
-[![Jossie C.GitHub stats](https://github-readme-stats.vercel.app/api?username=jcamposa-dev icons=true)](https://github.com/SrGobi/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcamposa-dev&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcamposa-dev&layout=compact)
+
+![Profile Views](https://komarev.com/ghpvc/?username=jcamposa-dev)
