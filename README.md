@@ -19,4 +19,7 @@ I am an Information Technology student and Business Administration graduate base
 - LinkedIn: https://linkedin.com/in/johndoe  
 
 ### 📈 GitHub Stats:
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jcamposa-dev&layout=donut-vertical&hide_title=true&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=jcamposa-dev&layout=donut-vertical&hide_title=true&langs_count=4&theme=transparent)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jcamposa-dev&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=jcamposa-dev&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jcamposa-dev&hide_title=true&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=jcamposa-dev&hide_title=true&langs_count=4&theme=transparent)
