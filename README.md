@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Jossie C. 👋
 
-<!--
-**jcamposa-dev/jcamposa-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Information Technology student and Business Administration graduate based in Costa Rica. I bridge the gap between clean code and business strategy.
 
-Here are some ideas to get you started:
+### 🚀 What I'm working on:
+- 📖 Studying Computer Science at UNED CR.
+- 💻 Completing the Responsive Web Design Certification at freeCodeCamp.
+- 🛠️ Documenting my daily coding journey in this profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools:
+[Aquí colocas los logos/badges de HTML5, CSS3, GitHub, Git, etc.]
+
+### 📂 Featured freeCodeCamp Projects:
+- 📄 [Tribute Page](enlace a tu repositorio) - Built with responsive HTML/CSS.
+- 📋 [Survey Form](enlace a tu repositorio) - Form validation and accessible design.
+- 🎨 [Technical Documentation Page](enlace a tu repositorio) - Structured UI layout.
+
+### 📈 GitHub Stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcamposa-devicons=true)](https://github.com/SrGobi/github-readme-stats)
