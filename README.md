@@ -7,10 +7,11 @@ I am an Information Technology student and Business Administration graduate base
 - 💻 Completing the Responsive Web Design Certification at freeCodeCamp.
 - 🛠️ Documenting my daily coding journey in this profile.
 
-### 🛠️ Tech Stack & Tools:
- ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
 ### 📂 Featured freeCodeCamp Projects:
+*(In process)
+
+### 🛠️ Tech Stack & Tools:
+
 | 💻 Frontend & Dev Tools | 💼 Business & CMS |
 | :--- | :--- |
 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-squar&logo=html5&logoColor=white) | ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) |
