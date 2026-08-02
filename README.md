@@ -8,17 +8,17 @@ I am an Information Technology student and Business Administration graduate base
 - 🛠️ Documenting my daily coding journey in this profile.
 
 ### 🛠️ Tech Stack & Tools:
-  ![HTML5](https://shields.io)
-  ![CSS3](https://shields.io)
-  ![JavaScript](https://shields.io)
-  ![Git](https://shields.io)
-  ![GitHub](https://shields.io)
-  ![Markdown](https://shields.io)
+ ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ### 📂 Featured freeCodeCamp Projects:
-- 📄 [Tribute Page](enlace a tu repositorio) - Built with responsive HTML/CSS.
-- 📋 [Survey Form](enlace a tu repositorio) - Form validation and accessible design.
-- 🎨 [Technical Documentation Page](enlace a tu repositorio) - Structured UI layout.
+| 💻 Frontend & Dev Tools | 💼 Business & CMS |
+| :--- | :--- |
+| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white | ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) | ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) | ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat-square&logo=Meta&logoColor=white) |
+| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) | ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) |
+| ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) | |
+
 
 ### 🌐 Connect With Me 
 - LinkedIn: https://linkedin.com/in/johndoe  
