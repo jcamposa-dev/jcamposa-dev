@@ -22,7 +22,7 @@ I am an Information Technology student and Business Administration graduate base
 
 
 ### 🌐 Connect With Me 
-- LinkedIn: https://linkedin.com/in/johndoe  
+- LinkedIn: www.linkedin.com/in/jcamposadev 
 
 ### 📈 GitHub Stats:
 
