@@ -22,7 +22,7 @@ I am an Information Technology student and Business Administration graduate base
 
 
 ### 🌐 Connect With Me 
-- LinkedIn: www.linkedin.com/in/jcamposadev 
+- <p>LinkedIn: <a href="https://www.linkedin.com/in/jcamposadev" target="_blank" rel="noopener noreferrer">www.linkedin.com/in/jcamposadev</a></p>
 
 ### 📈 GitHub Stats:
 
