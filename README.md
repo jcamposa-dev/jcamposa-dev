@@ -6,7 +6,7 @@ I am a Computer Science student and Business Administration graduate based in Co
 
 | Institution / Platform | Program / Certification | Status |
 | :--- | :--- | :--- |
-| **UNED, Costa Rica** | B.S. in Computer Science | ⏳ In Progress (Starts Sept, 2026) |
+| **UNED, Costa Rica** | Associate Degree in Computer Science | ⏳ In Progress (Started Sept, 2026) |
 | **UNED, Costa Rica** | Associate Degree in Business Administration | ✅ Completed |
 | **FreeCodeCamp** | Responsive Web Design | ✅ Completed |
 | **FreeCodeCamp** | JavaScript Algorithms & Data Structures | ⏳ In Progress |
